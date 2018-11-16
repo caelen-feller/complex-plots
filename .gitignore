@@ -1,0 +1,4 @@
+Makefile
+build/*
+doc/build/*
+.vscode/*
